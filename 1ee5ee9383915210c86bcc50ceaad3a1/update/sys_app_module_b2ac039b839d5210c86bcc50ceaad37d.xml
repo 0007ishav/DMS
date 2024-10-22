@@ -10,10 +10,10 @@
         <image/>
         <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>Create New</mobile_title>
+        <mobile_title>Upload new device</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_1312311_dms_device_request</name>
-        <order>2</order>
+        <name>x_1312311_dms_ai_devices</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -21,21 +21,21 @@
         <roles>x_1312311_dms.device_management</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-22 18:26:52</sys_created_on>
+        <sys_created_on>2024-10-22 21:13:02</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>07e6a6db83915210c86bcc50ceaad3cf</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Create New Device Request</sys_name>
+        <sys_id>b2ac039b839d5210c86bcc50ceaad37d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Upload New Device</sys_name>
         <sys_overrides/>
         <sys_package display_value="Device Management System" source="x_1312311_dms">1ee5ee9383915210c86bcc50ceaad3a1</sys_package>
         <sys_policy/>
         <sys_scope display_value="Device Management System">1ee5ee9383915210c86bcc50ceaad3a1</sys_scope>
-        <sys_update_name>sys_app_module_07e6a6db83915210c86bcc50ceaad3cf</sys_update_name>
+        <sys_update_name>sys_app_module_b2ac039b839d5210c86bcc50ceaad37d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-22 21:15:37</sys_updated_on>
+        <sys_updated_on>2024-10-22 21:13:02</sys_updated_on>
         <timeline_page/>
-        <title>Create New Device Request</title>
+        <title>Upload New Device</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

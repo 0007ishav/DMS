@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="description" label="Business Justification" language="en" table="x_1312311_dms_device_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <help/>
+            <hint/>
+            <label>Business Justification</label>
+            <language>en</language>
+            <name>x_1312311_dms_device_request</name>
+            <plural>Business Justifications</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-22 20:00:38</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Business Justification</sys_name>
+            <sys_package display_value="Device Management System" source="x_1312311_dms">1ee5ee9383915210c86bcc50ceaad3a1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Device Management System">1ee5ee9383915210c86bcc50ceaad3a1</sys_scope>
+            <sys_update_name>sys_documentation_x_1312311_dms_device_request_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-22 20:20:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
